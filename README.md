@@ -1,5 +1,5 @@
 # 👻🧱🚀 Arcade Contribution Graph Games
-
+![Pac-Man Contribution Graph](pacman-contributions.svg)
 ![Active users count][active-users-shield]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
